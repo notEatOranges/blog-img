@@ -2,11 +2,15 @@
  * @Author: hly
  * @Description: 
  * @Date: 2022-06-02 10:34:41
- * @LastEditTime: 2022-06-02 10:56:16
+ * @LastEditTime: 2022-06-02 10:57:20
  * @FilePath: /blog-img/README.md
 -->
 # blog-img
 图床
+├── README.md
+├── img-Markdown
+├── img-blog
+└── img-other
 
 # 勿上传图片到根目录
 
