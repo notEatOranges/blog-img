@@ -16,7 +16,8 @@
 
 #### Markdown 文件图片请上传到 img-Markdown 文件夹下  
 
-#### 博客文件 上传到 img-blog 文件夹下  
+#### 博客文件 上传到 img-blog 文件夹下 
+
 #### 其他文件图片上传到 img-other 文件夹下  
 
 
